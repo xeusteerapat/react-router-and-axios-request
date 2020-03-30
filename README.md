@@ -1,3 +1,13 @@
+# Basic React Router
+
+- Just a simple static site with basic routing.
+- Fetching data from local JSON file.
+
+## Todo
+
+- Add more route to each user profile.
+- Correct external links.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
