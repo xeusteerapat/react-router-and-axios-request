@@ -6,7 +6,7 @@
 ## Todo
 
 - Add more route to each user profile.
-- Correct external links.
+- ~~Correct external links.~~
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -23,7 +23,9 @@ export default class Friends extends Component {
         <td>{student.Surname}</td>
         <td>{student.Tel}</td>
         <td>{student.Email}</td>
-        <td>{student.Website}</td>
+        <td>
+          <a href={student.Website}>{student.Website}</a>
+        </td>
       </tr>
     ));
     return (

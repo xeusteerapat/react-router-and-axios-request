@@ -9,18 +9,13 @@ export default class Map extends Component {
           <div className="item">
             <i className="large github middle aligned icon"></i>
             <div className="content">
-              <a href="https://github.com/xeusteerapat" target="_blank">
-                Github profile
-              </a>
+              <a href="https://github.com/xeusteerapat">Github profile</a>
             </div>
           </div>
           <div className="item">
             <i className="large facebook middle aligned icon"></i>
             <div className="content">
-              <a
-                href="https://www.facebook.com/xeusteerapat.prommarak"
-                target="_blank"
-              >
+              <a href="https://www.facebook.com/xeusteerapat.prommarak">
                 Facebook
               </a>
             </div>
@@ -28,9 +23,7 @@ export default class Map extends Component {
           <div className="item">
             <i className="large twitter middle aligned icon"></i>
             <div className="content">
-              <a href="https://twitter.com/xeusteerapat" target="_blank">
-                Twitter
-              </a>
+              <a href="https://twitter.com/xeusteerapat">Twitter</a>
             </div>
           </div>
         </div>
